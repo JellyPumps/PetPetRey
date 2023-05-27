@@ -13,3 +13,13 @@ export_presets.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+#Audio & Visual
+icon.png #Already exists in repo
+Icons/
+Images/
+Audio/
+
+#Folders used for testing
+Exports/
+Movies/
